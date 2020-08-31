@@ -27,3 +27,5 @@ let myAgeInDogYears = earlyYears + laterYears;
 
 // console.log(myAge);
 // console.log(myAgeInDogYears);
+
+console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`);
