@@ -16,4 +16,5 @@ earlyYears *= 10.5;
 
 //to take the rest years of human life to calculate them later
 let laterYears = myAge - 2;
+laterYears *= 4;
 
