@@ -18,3 +18,6 @@ earlyYears *= 10.5;
 let laterYears = myAge - 2;
 laterYears *= 4;
 
+// console.log(earlyYears);
+// console.log(laterYears);
+
