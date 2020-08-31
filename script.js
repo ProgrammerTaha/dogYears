@@ -5,8 +5,9 @@ first two years of a dog’s life count as 10.5 dog years each
 Each year following equates to 4 dog years
 */
 
-//My age
+//My age and name
 const myAge = 24;
+const myName = 'Taha'.toLowerCase();
 
 //The first two years in the dog's life
 let earlyYears = 2;
