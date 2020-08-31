@@ -21,3 +21,8 @@ laterYears *= 4;
 // console.log(earlyYears);
 // console.log(laterYears);
 
+//calculate my age based on dog years
+let myAgeInDogYears = earlyYears + laterYears;
+
+// console.log(myAge);
+// console.log(myAgeInDogYears);
