@@ -14,3 +14,6 @@ let earlyYears = 2;
 //to get the human years equals to the first two years of dog's life
 earlyYears *= 10.5;
 
+//to take the rest years of human life to calculate them later
+let laterYears = myAge - 2;
+
