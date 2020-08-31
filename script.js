@@ -11,3 +11,6 @@ const myAge = 24;
 //The first two years in the dog's life
 let earlyYears = 2;
 
+//to get the human years equals to the first two years of dog's life
+earlyYears *= 10.5;
+
