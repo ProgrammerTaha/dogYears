@@ -6,5 +6,8 @@ Each year following equates to 4 dog years
 */
 
 //My age
-let myAge = 24;
+const myAge = 24;
+
+//The first two years in the dog's life
+let earlyYears = 2;
 
